@@ -3,3 +3,5 @@ var chocolateBars =
 "hundred grand",
 "itkat",
 "skittles"]
+
+chocolateBars.unshift ("peanuts")
